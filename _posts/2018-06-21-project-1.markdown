@@ -2,7 +2,7 @@
 title: Umgang mit jihadistisch-islamistischer Propaganda im Netz
 subtitle: Presentation
 layout: default
-modal-id: 5
+modal-id: 2
 date: 2018-06-21
 img: golden.png
 thumbnail: golden-thumbnail.png
