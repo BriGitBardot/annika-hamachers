@@ -1,5 +1,5 @@
 ---
-title: ‘Oscillation’ with a Terrorist’s Mindset
+title: ‘Oscillation’ with a <br/>Terrorist’s Mindset
 subtitle: Research Poster
 layout: default
 modal-id: 1
