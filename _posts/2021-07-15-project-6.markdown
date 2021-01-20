@@ -2,7 +2,7 @@
 title: Acvanced Network Viz
 subtitle: Tutorial
 layout: default
-modal-id: 1
+modal-id: 6
 date: 2021-07-15
 img: Netzwerk.JPG
 download: Netzwerke.pdf
