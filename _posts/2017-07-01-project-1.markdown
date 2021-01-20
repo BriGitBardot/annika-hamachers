@@ -4,9 +4,9 @@ subtitle: Research Poster
 layout: default
 modal-id: 1
 date: 2017-07-01
-img: golden.png
+img: Mindset.pdf
 thumbnail: golden-thumbnail.png
-download: golden-thumbnail.png
+download: Mindset.pdf
 alt: image-alt
 project-date: July 2017
 client: Start Bootstrap
