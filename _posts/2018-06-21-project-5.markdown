@@ -1,16 +1,16 @@
 ---
-title: ‘Oscillation’ with a Terrorist’s Mindset
-subtitle: Research Poster
+title: Umgang mit jihadistisch-islamistischer Propaganda im Netz
+subtitle: Presentation
 layout: default
-modal-id: 4
-date: 2017-07-01
+modal-id: 5
+date: 2018-06-21
 img: golden.png
 thumbnail: golden-thumbnail.png
 download: golden-thumbnail.png
 alt: image-alt
-project-date: July 2017
+project-date: June 2018
 client: Start Bootstrap
-category: Research Poster
+category: Presentation
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
