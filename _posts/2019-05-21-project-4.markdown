@@ -4,9 +4,9 @@ subtitle: Research Poster
 layout: default
 modal-id: 4
 date: 2019-05-21
-img: golden.png
+img: Präventionstag2.pdf
 thumbnail: golden-thumbnail.png
-download: golden-thumbnail.png
+download: Präventionstag2.pdf
 alt: image-alt
 project-date: May 2019
 client: Start Bootstrap
