@@ -1,5 +1,5 @@
 ---
-title: Acvanced Network Viz
+title: Acvanced Network Viz <br/> with R & Gephi
 subtitle: Tutorial
 layout: default
 modal-id: 6
