@@ -4,9 +4,9 @@ subtitle: Presentation
 layout: default
 modal-id: 3
 date: 2019-04-11
-img: golden.png
+img: Profiling.JPG
 thumbnail: golden-thumbnail.png
-download: golden-thumbnail.png
+download: Profiling.pdf
 alt: image-alt
 project-date: April 2019
 client: Presentation
