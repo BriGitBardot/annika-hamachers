@@ -5,6 +5,7 @@ layout: default
 modal-id: 4
 date: 2021-07-15
 img: Netzwerk.JPG
+download: Netzwerke.pdf
 thumbnail: Netzwerk_tumb.JPG
 alt: image-alt
 project-date: July 2021
