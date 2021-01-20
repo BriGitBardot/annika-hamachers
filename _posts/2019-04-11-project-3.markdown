@@ -2,7 +2,7 @@
 title: Profiling malignant rhetoric
 subtitle: Presentation
 layout: default
-modal-id: 4
+modal-id: 3
 date: 2019-04-11
 img: golden.png
 thumbnail: golden-thumbnail.png
