@@ -2,7 +2,7 @@
 title: ‚Topic Modelling‘ von Da‘wa & Co.
 subtitle: Research Poster
 layout: default
-modal-id: 2
+modal-id: 4
 date: 2019-05-21
 img: golden.png
 thumbnail: golden-thumbnail.png
