@@ -4,9 +4,9 @@ subtitle: Presentation
 layout: default
 modal-id: 2
 date: 2018-06-21
-img: golden.png
+img: Präventionstag1.JPG
 thumbnail: golden-thumbnail.png
-download: golden-thumbnail.png
+download: Präventionstag1.png
 alt: image-alt
 project-date: June 2018
 client: Start Bootstrap
