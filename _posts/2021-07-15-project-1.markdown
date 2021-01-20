@@ -1,5 +1,5 @@
 ---
-title: Acvanced Network Vis
+title: Acvanced Network Viz
 subtitle: Tutorial
 layout: default
 modal-id: 1
