@@ -2,7 +2,7 @@
 title: Acvanced Network Viz <br/> with R & Gephi
 subtitle: Tutorial
 layout: default
-modal-id: 6
+modal-id: 5
 date: 2021-07-15
 img: Netzwerk.JPG
 download: Netzwerke.pdf
