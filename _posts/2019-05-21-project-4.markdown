@@ -1,5 +1,5 @@
 ---
-title: ‚Topic Modelling‘ von Da‘wa & Co.
+title: ‚Topic Modelling‘ von <br/> Da‘wa & Co.
 subtitle: Research Poster
 layout: default
 modal-id: 4
