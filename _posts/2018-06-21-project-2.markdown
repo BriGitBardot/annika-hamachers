@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2018-06-21
 img: Präventionstag1.JPG
-thumbnail: golden-thumbnail.png
+thumbnail: Präventionstag1_thumb.png
 download: Präventionstag1.pdf
 alt: image-alt
 project-date: June 2018
