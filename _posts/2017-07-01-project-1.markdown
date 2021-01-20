@@ -4,7 +4,7 @@ subtitle: Research Poster
 layout: default
 modal-id: 1
 date: 2017-07-01
-img: Mindset.pdf
+img: Mindset.JPG
 thumbnail: golden-thumbnail.png
 download: Mindset.pdf
 alt: image-alt
