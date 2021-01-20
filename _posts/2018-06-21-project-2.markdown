@@ -11,6 +11,5 @@ alt: image-alt
 project-date: June 2018
 client: Start Bootstrap
 category: Presentation
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: These are the accompanying slides to a talk held in Berlin at the 24th German Day of Prevention in Mai 2019 which summarize findings from the project <a href="https://www.x-sonar.org/" target="_blank">X-Sonar</a>. </br> Click on the picture to download.
 ---
