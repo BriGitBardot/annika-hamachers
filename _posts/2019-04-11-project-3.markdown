@@ -1,5 +1,5 @@
 ---
-title: Profiling malignant rhetoric
+title: Profiling <br/> malignant rhetoric
 subtitle: Presentation
 layout: default
 modal-id: 3
