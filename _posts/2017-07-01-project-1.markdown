@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2017-07-01
 img: Mindset.JPG
-thumbnail: golden-thumbnail.png
+thumbnail: Mindset_thumb.png
 download: Mindset.pdf
 alt: image-alt
 project-date: July 2017
