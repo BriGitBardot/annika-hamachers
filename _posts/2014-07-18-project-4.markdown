@@ -2,7 +2,7 @@
 title: ‘Oscillation’ with a Terrorist’s Mindset
 subtitle: Research Poster
 layout: default
-modal-id: 3
+modal-id: 4
 date: 2017-07-01
 img: golden.png
 thumbnail: golden-thumbnail.png
