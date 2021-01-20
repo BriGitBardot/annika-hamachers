@@ -11,6 +11,6 @@ alt: image-alt
 project-date: July 2017
 client: Start Bootstrap
 category: Research Poster
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: This poster summerizes a research project on narrative assimilation with terrorists and was presented at the annual conference of the devision of Media Psychology of the German Psychological Association in July 2017.</br> Click on the picture to download.
 
 ---
