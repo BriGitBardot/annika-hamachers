@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2019-04-11
 img: Profiling.JPG
-thumbnail: golden-thumbnail.png
+thumbnail: Profiling_thumb.png
 download: Profiling.pdf
 alt: image-alt
 project-date: April 2019
