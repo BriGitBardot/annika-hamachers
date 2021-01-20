@@ -6,7 +6,7 @@ modal-id: 6
 date: 2021-07-15
 img: Netzwerk.JPG
 download: Netzwerke.pdf
-thumbnail: Netzwerk_tumb.JPG
+thumbnail: Netzwerk_tumb2.JPG
 alt: image-alt
 project-date: July 2021
 category: Tutorial
