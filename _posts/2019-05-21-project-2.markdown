@@ -3,7 +3,7 @@ title: Umgang mit jihadistisch-islamistischer
 subtitle: Presentation
 layout: default
 modal-id: 2
-date: 2018-06-21
+date: 2019-05-21
 img: Präventionstag1.JPG
 thumbnail: Präventionstag1_thumb.png
 download: Präventionstag1.pdf
