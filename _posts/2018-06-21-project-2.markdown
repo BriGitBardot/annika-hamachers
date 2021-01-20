@@ -1,5 +1,5 @@
 ---
-title: Umgang mit jihadistisch-islamistischer Propaganda im Netz
+title: Umgang mit jihadistisch-islamistischer
 subtitle: Presentation
 layout: default
 modal-id: 2
