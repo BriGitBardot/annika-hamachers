@@ -4,12 +4,16 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-@font-face {
-    font-family: 'Bikinis Personal Use Regular';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Bikinis Personal Use Regular'), url('BikinisPersonalUse-gGd5.woff') format('woff');
-    }
+@import url(//db.onlinewebfonts.com/c/4ecba4e76d765629e5540f81a3840d9d?family=Bikinis+Personal+Use);
+
+@font-face {font-family: "Bikinis Personal Use"; 
+    src: url("//db.onlinewebfonts.com/t/4ecba4e76d765629e5540f81a3840d9d.eot"); 
+    src: url("//db.onlinewebfonts.com/t/4ecba4e76d765629e5540f81a3840d9d.eot?#iefix") format("embedded-opentype"), 
+        url("//db.onlinewebfonts.com/t/4ecba4e76d765629e5540f81a3840d9d.woff2") format("woff2"), 
+        url("//db.onlinewebfonts.com/t/4ecba4e76d765629e5540f81a3840d9d.woff") format("woff"), 
+        url("//db.onlinewebfonts.com/t/4ecba4e76d765629e5540f81a3840d9d.ttf") format("truetype"), 
+        url("//db.onlinewebfonts.com/t/4ecba4e76d765629e5540f81a3840d9d.svg#Bikinis Personal Use") format("svg"); 
+}
 
 body {
     overflow-x: hidden;
