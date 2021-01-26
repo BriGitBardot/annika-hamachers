@@ -52,6 +52,16 @@
                 <div class="intro-heading">You find me at the <a href="https://www.dhpol.de/microsite/englische-website/units/unit-2/unit-ii.5.php" target="_blank">German Police University</a>.</div>
                 <a href="#news" class="page-scroll btn btn-xl">Tell Me More</a>
             </div>
+            <div class="row">
+                 <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        {% for network in site.social %}
+                        <li><a href="{{ network.url }}"><i class="fab fa-{{ network.title }}"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
         </div>
     </header>
 <!--
