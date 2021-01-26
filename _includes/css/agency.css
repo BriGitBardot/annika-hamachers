@@ -611,7 +611,8 @@ section h3.section-subheading {
 }*/
 
 .timeline>li.timeline-inverted>.timeline-panel:after {
-     margin-bottom: 0 !important; 
+    left: 0;
+    border-right-width: 0; 
 }
 
 .timeline>li:last-child {
