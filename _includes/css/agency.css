@@ -566,7 +566,7 @@ section h3.section-subheading {
 .timeline>li .timeline-panel:after {
     right: auto;
     left: -14px;
-    /*border-right-width: 14px;*/
+    border-right-width: 14px;
     border-left-width: 0;
 }
 
@@ -603,16 +603,11 @@ section h3.section-subheading {
     border-left-width: 0;
 }
 
-/*.timeline>li.timeline-inverted>.timeline-panel:after {
+.timeline>li.timeline-inverted>.timeline-panel:after {
     right: auto;
     left: -14px;
     border-right-width: 14px;
     border-left-width: 0; 
-}*/
-
-.timeline>li.timeline-inverted>.timeline-panel:after {
-    left: 0;
-    border-right-width: 0; 
 }
 
 .timeline>li:last-child {
