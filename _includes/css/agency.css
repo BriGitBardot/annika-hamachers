@@ -4,6 +4,13 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+@font-face {
+    font-family: 'Bikinis Personal Use Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bikinis Personal Use Regular'), url('BikinisPersonalUse-gGd5.woff') format('woff');
+    }
+
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
