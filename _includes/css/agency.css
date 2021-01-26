@@ -528,7 +528,7 @@ section h3.section-subheading {
     left: 40px;
     width: 2px;
     margin-left: -1.5px;
-    /*background-color: #f1f1f1;*/
+    background-color: #f1f1f1;
 }
 
 .timeline>li {
@@ -612,6 +612,7 @@ section h3.section-subheading {
 
 .timeline>li:last-child {
     margin-bottom: 0;
+    background-color: none;
 }
 
 .timeline .timeline-heading h4 {
