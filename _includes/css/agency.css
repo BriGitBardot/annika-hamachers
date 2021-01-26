@@ -612,7 +612,7 @@ section h3.section-subheading {
 
 .timeline>li:last-child {
     margin-bottom: 0;
-    background-color: transparent;
+    background-color: #ffffff !important;
 }
 
 .timeline .timeline-heading h4 {
