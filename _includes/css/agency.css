@@ -611,10 +611,7 @@ section h3.section-subheading {
 }*/
 
 .timeline>li.timeline-inverted>.timeline-panel:after {
-    right: auto;
-    left: -14px;
-    border-right-width: 0;
-    border-left-width: 0; 
+     margin-bottom: 0 !important; 
 }
 
 .timeline>li:last-child {
