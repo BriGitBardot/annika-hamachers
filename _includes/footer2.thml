@@ -1,0 +1,23 @@
+<footer2>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">Copyright &copy; {{ site.title }} 2021</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        {% for network in site.social %}
+                        <li><a href="{{ network.url }}"><i class="fab fa-{{ network.title }}"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li><a href="/impressum.html">Impressum</a>
+                        </li>
+                        </ul>
+                </div>
+            </div>
+        </div>
+    </footer2>
