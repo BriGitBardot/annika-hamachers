@@ -8,10 +8,9 @@ img: Profiling.JPG
 thumbnail: Profiling_thumb.png
 download: Profiling.pdf
 alt: image-alt
-project-date: April 2019
-client: Presentation
-category: Research Poster
-description:  	
-These are the accompanying slides to a talk held at the workshop 'Populism and Emotions' in Mons in April 2019. </br> Click on the thumbnail to download.
+project-date: July 2017
+client: Start Bootstrap
+category: Presentation
+description: These are the accompanying slides to a talk held at the workshop 'Populism and Emotions' in Mons in April 2019. </br> Click on the thumbnail to download..
 
 ---
