@@ -2,7 +2,7 @@
 title: Profiling <br/> malignant rhetoric
 subtitle: Presentation
 layout: default
-modal-id: 3
+modal-id: 2
 date: 2019-04-11
 img: Profiling.JPG
 thumbnail: Profiling_thumb.png
