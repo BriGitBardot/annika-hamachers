@@ -498,7 +498,7 @@ section h3.section-subheading {
 }
 
 #about .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+#about .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
     margin: 0;
 }
 
@@ -550,7 +550,7 @@ section h3.section-subheading {
     z-index: 2;
 }
 
-#materials * {
+#about * {
     z-index: 2;
 }
 @media(min-width:767px) {
