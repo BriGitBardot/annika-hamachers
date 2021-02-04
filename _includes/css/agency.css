@@ -15,6 +15,10 @@
         url("//db.onlinewebfonts.com/t/4ecba4e76d765629e5540f81a3840d9d.svg#Bikinis Personal Use") format("svg"); 
 }
 
+.justify-content-center {
+  justify-content: center !important;
+}
+
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
