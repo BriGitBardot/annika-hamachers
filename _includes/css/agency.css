@@ -645,7 +645,7 @@ section h3.section-subheading {
 
 .timeline>li:last-child {
     margin-bottom: 0;
-    background-color: #ffffff !important;
+    background-color: ##f7f7f7 !important;
 }
 
 .timeline .timeline-heading h4 {
@@ -1001,4 +1001,8 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
+}
+
+section#research {
+    background-color: #222;
 }
