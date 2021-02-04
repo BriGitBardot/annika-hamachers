@@ -1003,6 +1003,3 @@ body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
 
-section#research {
-    background-color: #222;
-}
