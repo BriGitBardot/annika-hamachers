@@ -538,6 +538,10 @@ section h3.section-subheading {
     z-index: 2;
 }
 
+#portfolio * {
+    z-index: 2;
+}
+
 #materials * {
     z-index: 2;
 }
