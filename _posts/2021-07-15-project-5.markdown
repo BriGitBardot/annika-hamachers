@@ -10,6 +10,6 @@ thumbnail: Netzwerk_tumb2.png
 alt: image-alt
 project-date: July 2021
 category: Tutorial
-This tutorial demonstrates how to create beautiful and professional network graphs by integrating the strengths of R and Gephi. 
+description: This tutorial demonstrates how to create beautiful and professional network graphs by integrating the strengths of R and Gephi.
 
 ---
