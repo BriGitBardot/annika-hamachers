@@ -5,11 +5,11 @@ layout: default
 modal-id: 5
 date: 2021-07-15
 img: Netzwerk.JPG
-download: Netzwerke.pdf
+download: NWTutorial.pdf
 thumbnail: Netzwerk_tumb2.png
 alt: image-alt
 project-date: July 2021
 category: Tutorial
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+This tutorial demonstrates how to create beautiful and professional network graphs by integrating the strengths of R and Gephi.
 
 ---
