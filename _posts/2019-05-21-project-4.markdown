@@ -11,6 +11,6 @@ alt: image-alt
 project-date: May 2019
 client: Start Bootstrap
 category: Research Poster
-description: This Poster was presented in May 2019 n Berlin at the 24th German Day of Prevention and summarize findings from the project <a href="https://www.x-sonar.org/" target="_blank">X-Sonar</a> on Topic Modelling of Islamist Web Content. </br> Click on the picture to download..
+description: This Poster was presented in May 2019 n Berlin at the 24th German Day of Prevention and summarize findings from the project <a href="https://www.x-sonar.org/" target="_blank">X-Sonar</a> on Topic Modelling of Islamist Web Content. </br> Click on the picture to download.
 
 ---
