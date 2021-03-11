@@ -1,0 +1,15 @@
+---
+title: Chernoff Faces in Ri
+subtitle: Tutorial
+layout: default
+modal-id: 5
+date: 2020-11-05
+img: Netzwerk.JPG
+download: Chernoff.pdf
+thumbnail: Chernoff_tumb2.png
+alt: image-alt
+project-date: November 2020
+category: Tutorial
+description: This short tutorial demonstrates the use of the faces() function from the R package aplpack.
+
+---
