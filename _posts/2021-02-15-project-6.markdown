@@ -6,7 +6,7 @@ modal-id: 6
 date: 2021-02-15
 img: Netzwerk.JPG
 download: NWTutorial.pdf
-thumbnail: Netzwerk_tumb2.png
+thumbnail: NW.png
 alt: image-alt
 project-date: February 2021
 category: Tutorial
