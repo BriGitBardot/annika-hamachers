@@ -2,13 +2,13 @@
 title: Advanced Network Viz <br/> with R & Gephi
 subtitle: Tutorial
 layout: default
-modal-id: 5
-date: 2021-07-15
+modal-id: 6
+date: 2021-02-15
 img: Netzwerk.JPG
 download: NWTutorial.pdf
 thumbnail: Netzwerk_tumb2.png
 alt: image-alt
-project-date: July 2021
+project-date: February 2021
 category: Tutorial
 description: This tutorial demonstrates how to create beautiful and professional network graphs by integrating the strengths of R and Gephi.
 
