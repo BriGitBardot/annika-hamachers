@@ -1,15 +1,15 @@
 ---
-title: Advanced Network Viz <br/> with R & Gephi
+title: Data Science <br/> without Programming?
 subtitle: Tutorial
 layout: default
-modal-id: 6
-date: 2021-02-15
+modal-id: 7
+date: 2021-05-15
 img: Netzwerk.JPG
-download: NWTutorial.pdf
+download: KNIME_int.pdf
 thumbnail: NW.png
 alt: image-alt
-project-date: February 2021
+project-date: May 2021
 category: Tutorial
-description: This tutorial demonstrates how to create beautiful and professional network graphs by integrating the strengths of R and Gephi.
+description: This document introduces the free open-source software KNIME that enables sophisticated data analyses without having to write a single line of code.
 
 ---
