@@ -6,7 +6,7 @@ modal-id: 7
 date: 2021-05-15
 img: KNIME_int.PNG
 download: KNIME_int.pdf
-thumbnail: NW.png
+thumbnail: KNIME_int_thumb.jpg
 alt: image-alt
 project-date: May 2021
 category: Tutorial
