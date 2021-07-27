@@ -1,15 +1,15 @@
 ---
-title: Advanced Network Viz <br/> with R & Gephi
+title: Reporting with KNIME
 subtitle: Tutorial
 layout: default
-modal-id: 6
-date: 2021-02-15
+modal-id: 9
+date: 2021-07-27
 img: Netzwerk.JPG
-download: NWTutorial.pdf
+download: KNIME_lit.pdf
 thumbnail: NW.png
 alt: image-alt
-project-date: February 2021
+project-date: July 2021
 category: Tutorial
-description: This tutorial demonstrates how to create beautiful and professional network graphs by integrating the strengths of R and Gephi.
+description: This paper compiles a short overview of three different ways of integrating data analysis with reporting features in KNIME.
 
 ---
