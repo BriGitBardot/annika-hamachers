@@ -4,7 +4,7 @@ subtitle: Tutorial
 layout: default
 modal-id: 7
 date: 2021-05-15
-img: Netzwerk.JPG
+img: KNIME_int.PNG
 download: KNIME_int.pdf
 thumbnail: NW.png
 alt: image-alt
