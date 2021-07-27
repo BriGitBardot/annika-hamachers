@@ -1,5 +1,5 @@
 ---
-title: Reporting with <\br> KNIME
+title: Reporting with <br/> KNIME
 subtitle: Tutorial
 layout: default
 modal-id: 9
